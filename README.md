@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Typescript, NextJs**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-theta-indol-93.vercel.app/)
+- 👨‍💻 All of my projects are available at https://portfolio-theta-indol-93.vercel.app/
 
 - 💬 Ask me about **React**
 
