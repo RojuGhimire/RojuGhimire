@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojughimire&label=Profile%20views&color=0e75b6&style=flat" alt="rojughimire" /> </p>
 
-- 🔭 I’m currently working on [Nexus Accounting](https://nexus-accounting.vercel.app/)
+- 🔭 I’m currently working on [SkillSpot]
 
 - 🌱 I’m currently learning **React Typescript, NextJs**
 
